@@ -1,16 +1,27 @@
 # leandroealessandro
 
-A new Flutter project.
+Projeto do Aplicativo de agendamentos e minirrede social Leandro e Alessandro
 
-## Getting Started
+## Ideia principal
+- Um aplicativo que possa ser usado para tornar o agendamento menos pessoal
+- O público alvo é de pessoas que não estão ambientadas com redes sociais
 
-This project is a starting point for a Flutter application.
+## Objetivos
+- Manter Simples
+- Construir o front antes do back end
+- Manter dinâmico
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Páginas
+- Login (Página Formulário)
+- Main Page
+- Schedule Page 
+    Professional
+    Service
+    Time
+    Final
+- Products Page
+- Professional Menu
+- Chat Page
+- Portfolio Page
+- Review Page
+- My Schedule Page
